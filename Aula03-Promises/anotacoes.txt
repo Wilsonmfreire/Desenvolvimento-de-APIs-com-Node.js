@@ -1,0 +1,7 @@
+Promises: entendendo o objeto assíncrono nativo do Javascript
+
+*Pending: Estado inicial, ainda n]ao terminou ou ainda não foi rejeitado.
+
+*Fulfilled: Quando executou todas as operações com sucesso
+
+*Rejected: Quando a operação falhou.
